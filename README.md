@@ -1,2 +1,2 @@
-# Leading_Arm_Franka_Test
+# F.L.A.T(Franka Leading Arm Teleop)
 Leading arm teleoperation with Franka emika panda
